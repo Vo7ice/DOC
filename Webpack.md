@@ -1,6 +1,6 @@
 # 编译工具Toolkit
 
-![JS框架图](E:\DOC\figure\JS应用开发框架.png)
+![JS框架图](figure/JS应用开发框架.png)
 
 编译工具toolkit中包含了模板解析，样式解析，`webpack`
 
